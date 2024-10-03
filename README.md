@@ -9,4 +9,8 @@
 Éditeur de Texte  :  VSC & VS
 ```
 
-<a href="https://discord.gg/The-Family" target="_blank"><img src="https://github.com/narcusensei/narcusensei/blob/main/assets/data.gif" alt="data"></a>
+<a href="https://discord.gg/The-Family" target="_blank">
+    <p align="center">
+        <img src="https://github.com/narcusensei/narcusensei/blob/main/assets/data.gif" alt="data">
+    </p>
+</a>
