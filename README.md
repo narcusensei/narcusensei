@@ -3,7 +3,7 @@
 # 💫 À Propos De Moi:
 ```
               OS  :  Windows
-         Discord  :  discord.gg/The-Family
+         Discord  :  discord.gg/mrUvBUKC23
         Langages  :  C, C#, Python
         Site Web  :  soon
 Éditeur de Texte  :  VSC & VS
